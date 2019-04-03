@@ -1,6 +1,6 @@
 ---
 name: Set up git
-about: ''
+about: 'anything at all'
 title: Set up git
 lables: ''
 assignees: ''
